@@ -27,3 +27,19 @@ body {
     flex-shrink: 0;
     display: flex;
 }
+
+.website-header {
+    background-color: #1F2937;
+}
+
+.website-description {
+    background-color: #1F2937;
+}
+
+.website-quote {
+    background-color: #E5E7EB;
+}
+
+.website-footer {
+    background-color: #1F2937;
+}
