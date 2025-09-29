@@ -30,6 +30,9 @@ body {
 
 .website-header {
     background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .website-description {
@@ -42,4 +45,14 @@ body {
 
 .website-footer {
     background-color: #1F2937;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+li {
+    padding: 8px;
 }
